@@ -10,7 +10,7 @@
 
 ```bash
 git lfs install
-git clone https://git.ygwill.asia/personal-website/character-cyrene.git
+git clone https://git.ygwill.top/personal-website/character-cyrene.git
 cd character-cyrene
 npm install
 npm run dev              # http://127.0.0.1:5178
